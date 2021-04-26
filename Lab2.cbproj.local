@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.04.26 09:12:33.139,=C:\Users\Никита\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2021.04.26 09:12:33.194,=C:\Users\Никита\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.04.26 09:19:27.538,=C:\Users\Никита\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.04.26 09:28:04.739,C:\Users\Никита\Documents\RAD Studio\Projects\Lab2.cbproj=C:\Users\Никита\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021.04.26 09:28:19.022,C:\Users\Никита\Documents\RAD Studio\Projects\Programm.dfm=C:\Users\Никита\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.04.26 09:28:19.022,C:\Users\Никита\Documents\RAD Studio\Projects\Programm.h=C:\Users\Никита\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.04.26 09:28:19.022,C:\Users\Никита\Documents\RAD Studio\Projects\Programm.cpp=C:\Users\Никита\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.04.26 09:28:28.170,C:\Users\Никита\Documents\RAD Studio\Projects\Components.cpp=C:\Users\Никита\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.04.26 09:28:28.170,C:\Users\Никита\Documents\RAD Studio\Projects\Components.h=C:\Users\Никита\Documents\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021.04.26 09:28:42.855,C:\Users\Никита\Documents\RAD Studio\Projects\sComponents.h=C:\Users\Никита\Documents\RAD Studio\Projects\Components.h</Transaction>
+    <Transaction>2021.04.26 09:28:42.855,C:\Users\Никита\Documents\RAD Studio\Projects\sComponents.cpp=C:\Users\Никита\Documents\RAD Studio\Projects\Components.cpp</Transaction>
+    <Transaction>2021.04.26 09:29:16.552,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\sComponents.h=C:\Users\Никита\Documents\RAD Studio\Projects\sComponents.h</Transaction>
+    <Transaction>2021.04.26 09:29:16.552,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\sComponents.cpp=C:\Users\Никита\Documents\RAD Studio\Projects\sComponents.cpp</Transaction>
+    <Transaction>2021.04.26 09:29:19.119,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\Programm.dfm=C:\Users\Никита\Documents\RAD Studio\Projects\Programm.dfm</Transaction>
+    <Transaction>2021.04.26 09:29:19.119,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\Programm.h=C:\Users\Никита\Documents\RAD Studio\Projects\Programm.h</Transaction>
+    <Transaction>2021.04.26 09:29:19.119,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\Programm.cpp=C:\Users\Никита\Documents\RAD Studio\Projects\Programm.cpp</Transaction>
+    <Transaction>2021.04.26 09:29:21.583,C:\Users\Никита\Documents\RAD Studio\Projects\Sem2Lab2\Lab2.cbproj=C:\Users\Никита\Documents\RAD Studio\Projects\Lab2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
